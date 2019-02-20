@@ -1,4 +1,4 @@
 # learngit
 Fake repository to learn Git
 
-Try cloning it!
+Try cloning this branch!
